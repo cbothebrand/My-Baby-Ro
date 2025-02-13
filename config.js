@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "10 things I like about you!!",
-        message: "1. You keep me gentle. 2. The smile you give me looks so good on me. 2. You are so patient 3. Veeeery persistant hehe. 4. You can make me wet from across the world. 5. You're so generous with your time and attention, no matter how busy you get. 6. Your kindness. 7. Your dominant but gentle nature. 8. You are a good listener. 9. Thw way your eyes smile when you laugh. 10. You have a song for every situation. 11.You're funny without even trying. 12. You're such a hard worker. 13. You're protective. 14. You're a little weird and nerdy, but I like it",
+        title: "14 things I like about you!!",
+        message: "1. You keep me gentle. 2. The smile you give me looks so good on me. 2. You are so patient 3. Veeeery persistant hehe. 4. You can make me wet from across the world. 5. You're so generous with your time and attention, no matter how busy you get. 6. Your kindness. 7. Your dominant but gentle nature. 8. You are a good listener. 9. The way your eyes smile when you laugh. 10. You have a song for every situation. 11.You're funny without even trying. 12. You're such a hard worker. 13. You're protective. 14. You're a little weird and nerdy, but I like it",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
